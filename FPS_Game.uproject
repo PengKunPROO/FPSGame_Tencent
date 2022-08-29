@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0F7F34D2-4204-9A0B-94AF-F1AD24A97597}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FPS_Game",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
